@@ -10,12 +10,14 @@ Welcome to the Task Manager App! This app helps you manage your tasks efficientl
    cd TaskManagerApp
 
 2. Install dependencies:
+   ```bash
    npm install
 
-3. Run the app:
+4. Run the app:
+   ```bash
     npm start
 
-4. Open the app in your preferred mobile device or emulator OR Download Expo Go app from the playstore and scan the QR code which gets generated while running "npm start" command.
+6. Open the app in your preferred mobile device or emulator OR Download Expo Go app from the playstore and scan the QR code which gets generated while running "npm start" command.
 
 ## Features
 
